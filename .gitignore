@@ -1,0 +1,5 @@
+*.log
+build.xml
+build/
+dist/
+nbproject/
